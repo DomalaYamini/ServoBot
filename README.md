@@ -206,7 +206,7 @@ void scan_with_servo() {
     turn_right();  // Clear path on the right
   } else {
     move_backward();  // No clear path, move backward
-    turn_right();     // Then turn to try another path
+    
   }
 
   myservo.write(90); // Reset to center
