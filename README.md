@@ -41,8 +41,8 @@ This project controls a three-wheeled robot with an ultrasonic sensor mounted on
 ### Functions:
 - **`move_forward()`**: Moves the robot forward by activating both motors.
 - **`move_backward()`**: Reverses the robot’s movement.
-- **`turn_left()`**: Turns the robot left by stopping the right motor.
-- **`turn_right()`**: Turns the robot right by stopping the left motor.
+- **`turn_left()`**: Turns the robot left by stopping the left motor.
+- **`turn_right()`**: Turns the robot right by stopping the right motor.
 - **`stop()`**: Stops all movement of the robot.
 - **`get_distance()`**: Measures the distance from an obstacle using the ultrasonic sensor.
 - **`scan_with_servo()`**: Rotates the ultrasonic sensor to scan the environment and makes decisions based on detected distances.
