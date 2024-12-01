@@ -1,5 +1,5 @@
 ## Project Description
-This project controls a two-wheeled robot with an ultrasonic sensor mounted on a servo motor for obstacle detection and avoidance. The ultrasonic sensor rotates on the servo to scan for obstacles in different directions (left, center, right), and the robot adjusts its movement accordingly.
+This project controls a three-wheeled robot with an ultrasonic sensor mounted on a servo motor for obstacle detection and avoidance. The ultrasonic sensor rotates on the servo to scan for obstacles in different directions (left, center, right), and the robot adjusts its movement accordingly.
 
 ---
 
